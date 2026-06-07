@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ragroup.tech/sitemap.xml
+Sitemap: https://racompany.tech/sitemap.xml
